@@ -12,7 +12,7 @@ public class Practica_2 {
             
         } else { if (num>0) {System.out.println("es posityivo");
                 
-            } else {System.out.println("es negativo");
+            } else {System.out.println("es vxgeavo");
             }
         }
     }
